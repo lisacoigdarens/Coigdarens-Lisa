@@ -1,0 +1,6 @@
+{
+  "name": "Lisa Coigdarens — Voice Assistant",
+  "description": "Multilingual professional voice assistant and editorial portfolio for Lisa Coigdarens, Master Brand Communication & Events Manager in Paris.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
